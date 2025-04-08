@@ -1,6 +1,18 @@
-# 👋 Olá
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-Olá! Me chamo Douglas Ferraz, sou estudante de Engenharia de Materiais na Universidade Federal Rural de Pernambuco e desenvolvedor com habilidades em Java, Spring Boot, Angular e análise de dados com Python e R. Sou apaixonado por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software e análise de dados.
+---
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Me chamo Douglas Ferraz
+
+Sou estudante de Engenharia de Materiais na Universidade Federal Rural de Pernambuco e desenvolvedor com habilidades em Java, Spring Boot, Angular e análise de dados com Python e R. Sou apaixonado por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software e análise de dados.
+</div>
+
+<div align="center">
+  <a href="https://github.com/douglinhas87">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglinhas87&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglinhas87&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ## 🚀 Expertise
 Atualmente, me especializo no desenvolvimento full stack com **Java, Spring Boot e Angular**, além de explorar a área de **ciência de dados** com **Python e R**.
@@ -11,6 +23,10 @@ Atualmente, me especializo no desenvolvimento full stack com **Java, Spring Boot
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -24,7 +40,7 @@ Atualmente, me especializo no desenvolvimento full stack com **Java, Spring Boot
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ## 📚 Interesse/Estudo
-Atualmente, estou estudando novas tecnologias e aprofundando meus conhecimentos em análise de dados e desenvolvimento backend.
+Atualmente, estou estudando novas tecnologias e aprofundando meus conhecimentos em análise de dados e desenvolvimento frontend.
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasferrazengmat/)
@@ -39,6 +55,3 @@ Atualmente, estou estudando novas tecnologias e aprofundando meus conhecimentos 
 ---
 
 ❤ Amo tecnologia e estou sempre em busca de novos desafios!
-
-
-
