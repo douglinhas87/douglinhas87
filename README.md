@@ -40,7 +40,7 @@ Atualmente, me especializo no desenvolvimento full stack com **Java, Spring Boot
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ## 📚 Interesse/Estudo
-Atualmente, estou estudando novas tecnologias e aprofundando meus conhecimentos em análise de dados e desenvolvimento frontend.
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasferrazengmat/)
