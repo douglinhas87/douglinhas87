@@ -27,7 +27,10 @@ Tenho experiência com **Java, Spring Boot, APIs REST, Python, Node.js, Angular,
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 # 📚 Interesse/Estudo
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 # 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasferrazengmat/)
@@ -38,7 +41,3 @@ Tenho experiência com **Java, Spring Boot, APIs REST, Python, Node.js, Angular,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-cc1c25.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-cc1c25.svg" />
 </picture>
-
----
-
-❤ Amo tecnologia e estou sempre em busca de novos desafios!
