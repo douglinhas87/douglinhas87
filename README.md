@@ -6,7 +6,7 @@ Olá, me chamo **Douglas Ferraz** e sou natural de Recife. Sou estudante de Enge
 
 # 🚀 Expertise
 
-Tenho experiência com **Java, Spring Boot, APIs REST, Python, Node.js, Angular, HTML, CSS, JavaScript e TypeScript.**
+Tenho experiência com **Java, Spring Boot, APIs REST, Python, Angular, HTML, CSS, JavaScript e TypeScript.**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglinhas87&layout=compact&hide_border=true&theme=radical&title_color=FF0000&text_color=FF4D4D&icon_color=FF0000" />
 
