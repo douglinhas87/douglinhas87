@@ -38,6 +38,7 @@ Tenho experiência com **Java, Spring Boot, APIs REST, Python, Angular, HTML, CS
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-cc1c25.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-cc1c25.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/douglinhas87/douglinhas87/output/github-contribution-grid-snake-light.svg" />
 </picture>
+
